@@ -1,4 +1,4 @@
-# MarvelBlog
+# MarvelBlog From Dio, by Felipe Aguiar
 
 ![home](https://github.com/bscaetano/angular-blog/blob/main/src/assets/marvelBlog.png)
 
