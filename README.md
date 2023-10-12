@@ -1,4 +1,6 @@
-# AngularBlog
+# MarvelBlog
+
+![home](https://github.com/bscaetano/angular-blog/blob/main/src/assets/marvelBlog.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.5.
 
